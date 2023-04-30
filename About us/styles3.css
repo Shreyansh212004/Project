@@ -1,0 +1,174 @@
+body{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    /* background-color: #144a5f; */
+}
+.top{
+    background-color: #048da3;
+    
+    margin: 0;
+    background-color:rgb(35, 34, 34);
+    
+}
+.home{
+    display: inline-block;
+    text-align: right;
+    color: white;
+    margin-left: 1200px;
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    padding: 10px;
+    
+    
+}
+/* .list{
+    display: inline-block;
+    position: relative;
+    top:0px;
+    left: 10px;
+    text-align: right;
+    color: white;
+    /* margin-left: 1080px; 
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    padding: 10px;
+    
+    
+} */
+.contact:hover{
+    color: #3cfcef;
+    
+}
+.list:hover{
+    color: #3cfcef;
+    
+}
+
+.h1{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Shadows Into Light', cursive;
+    color: #FFEBEB;
+}
+
+.logo{
+    position: relative;
+    left: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+
+
+
+
+
+
+
+
+.mid{
+    margin: 0;
+    background-color:#144a5f;
+    width: 100%;
+    height: 1000px;
+    /* z-index: -1; */
+    align-items: center;
+}
+.about{
+    display: block;
+    position: relative;
+    text-align: left;
+    color: white;
+    font-size: 50px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    margin: 0;
+    top: 100px;
+    margin-left: 60px;
+
+}
+.yo{
+    display: block;
+    position: relative;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    margin: 0;
+    top: 100px;
+    width: 1100px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    position: absolute;
+    margin: 0;
+    padding: 80px 0 20px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-color: #048da3;
+    text-align: center;
+    width: 100%;
+    background-color:rgb(35, 34, 34);
+
+}
+
+
+
+.footer{
+    position: relative;
+    top: 20px;
+    margin: 10px 30px;
+    color: #FFEBEB;
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+.copyright{
+    color: #EAF6F6;
+    padding: 20px 0;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+    margin: 0;
+    margin-top: 30px;
+}
+.insta{
+    position: relative;
+    left: 13px;
+    height: 30px;
+    width: 30px;
+    top: 25px;
+    background-color:rgb(35, 34, 34);
+  }
+
+
+.link{
+    position: relative;
+    left: 13px;
+    height: 30px;
+    width: 30px;
+    top: 25px;
+    background-color: rgb(35, 34, 34);
+  }
+
+
+.twit{
+    position: relative;
+    left: 13px;
+    height: 30px;
+    width: 30px;
+    top: 25px;
+    background-color: rgb(35, 34, 34);
+  }

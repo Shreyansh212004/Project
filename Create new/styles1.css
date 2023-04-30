@@ -1,0 +1,114 @@
+/* .first {
+    width: 100%;
+    height: 200px;
+
+    background-color: #27E1C1;
+} */
+
+body {
+    /* background-color: #144a5f; */
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq-vR_m4Cyb-YUC6DLAur4ZFo6zSKoU08MOw&usqp=CAU'); */
+    background-image: linear-gradient(to left,#144a5f,#088395);
+}
+body{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    /* background-color: #144a5f; */
+}
+
+
+
+.top{
+    background-color: #048da3;
+    
+    margin: 0;
+    background-color:rgb(35, 34, 34);
+    
+}
+.home{
+    display: inline-block;
+    text-align: right;
+    color: white;
+    margin-left: 1200px;
+    font-size: 25px;
+    font-family: 'Shadows Into Light', cursive;
+    padding: 10px;
+    
+    
+}
+.h1{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Shadows Into Light', cursive;
+    color: #FFEBEB;
+}
+
+.logo{
+    position: relative;
+    left: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+
+.main {
+    height: 500px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-right: 20%;
+    border-radius: 7%;
+    font-size: larger;
+    background-color:#29aec2;
+    padding: 15px;
+    
+}
+
+.save
+{
+    margin-top: 20px;
+    margin-left:600px
+}
+.button
+{
+    padding: 10px 25px 10px 25px;
+    background-color: #19A7CE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    border-radius: 20px;
+    border-color: whitesmoke;
+    /* margin-right: 20px; */
+
+}
+.button2
+{
+    padding: 10px 25px 10px 25px;
+    background-color: #19A7CE;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    border-radius: 20px;
+    border-color: whitesmoke;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+.main input
+{
+    margin-bottom: 20px;
+}
+
+.head
+{   
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    top: 60px;
+    left: 490px;
+    font-family: 'Shadows Into Light', cursive;
+    color: #FFEBEB;
+    margin: 0;
+}
+.heading{
+    margin: 0px;
+}
